@@ -16,6 +16,13 @@ dev_dependencies:
   flutter_test: 
     sdk: flutter
 
-flutter: 
+flutter:
+  assets:
+    - images/
   uses-material-design: true
+
+fonts:
+    - family: Poppins
+      fonts:
+          - asset: fonts/Poppins/
 
